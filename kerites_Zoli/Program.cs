@@ -8,8 +8,16 @@ namespace kerites_Zoli
 {
     class Program
     {
+        struct Adat
+        {
+            public int paros_paratlan;
+            public int szelesseg;
+            public string k_szin;
+            public int hazszam;
+        }
         static void Main(string[] args)
         {
+            //
         }
     }
 }
