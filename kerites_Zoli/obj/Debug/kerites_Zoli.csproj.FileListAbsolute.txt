@@ -1,0 +1,7 @@
+C:\Users\Rendszergazda\Documents\GitHub\kerites_Zoli\kerites_Zoli\bin\Debug\kerites_Zoli.exe.config
+C:\Users\Rendszergazda\Documents\GitHub\kerites_Zoli\kerites_Zoli\bin\Debug\kerites_Zoli.exe
+C:\Users\Rendszergazda\Documents\GitHub\kerites_Zoli\kerites_Zoli\bin\Debug\kerites_Zoli.pdb
+C:\Users\Rendszergazda\Documents\GitHub\kerites_Zoli\kerites_Zoli\obj\Debug\kerites_Zoli.csprojAssemblyReference.cache
+C:\Users\Rendszergazda\Documents\GitHub\kerites_Zoli\kerites_Zoli\obj\Debug\kerites_Zoli.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Documents\GitHub\kerites_Zoli\kerites_Zoli\obj\Debug\kerites_Zoli.exe
+C:\Users\Rendszergazda\Documents\GitHub\kerites_Zoli\kerites_Zoli\obj\Debug\kerites_Zoli.pdb
